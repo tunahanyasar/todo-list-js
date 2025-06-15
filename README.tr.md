@@ -13,7 +13,7 @@
 
 ## 🌐 Canlı Demo
 
-> (Canlı demo linki ekleyebilirsiniz)
+Canlı web sitesini ziyaret edin: [To-Do List Projesi](https://todo-list-js-wheat.vercel.app/)
 
 ---
 
