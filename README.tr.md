@@ -21,11 +21,11 @@ Canlı web sitesini ziyaret edin: [To-Do List Projesi](https://todo-list-js-whea
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/tunahanyasar/todo-list.git
+git clone https://github.com/tunahanyasar/todo-list-js.git
 ```
 2. Proje dizinine gidin:
 ```bash
-cd todo-list
+cd todo-list-js
 ```
 3. `index.html` dosyasını bir web tarayıcısında açın.
 

@@ -21,11 +21,11 @@ Visit the live website: [To-Do List Project](https://todo-list-js-wheat.vercel.a
 
 1. Clone the project:
 ```bash
-git clone https://github.com/tunahanyasar/todo-list.git
+git clone https://github.com/tunahanyasar/todo-list-js.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd todo-list
+cd todo-list-js
 ```
 3. Open `index.html` in a web browser.
 
